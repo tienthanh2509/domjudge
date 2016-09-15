@@ -6,8 +6,8 @@ Setup domjudge_web
 -------------------
 
 ```
-    ./setup_web
-    ./setup_judgehost
+    ./setup_web.sh
+    ./setup_judgehost.sh
 ```
 
 Start DB
